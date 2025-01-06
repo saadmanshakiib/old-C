@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.log-in-box{
+    position: absolute;
+    top: 50%;
+    bottom:50%
+}
+.log-in-box h1{
+    position: absolute;
+    top: 50%;
+}

@@ -1,0 +1,20 @@
+.welcome{
+    color: cornflowerblue;
+}
+.heading1{ 
+
+    padding-right:45em;
+    font-style: italic;
+    font-size: xx-large;
+    color:dodgerblue;
+
+}
+.nick{
+color:dodgerblue;
+font-style: italic;
+margin-left:1em;
+}
+.parents{
+    font-size: x-large;
+    font-weight: bolder;
+}

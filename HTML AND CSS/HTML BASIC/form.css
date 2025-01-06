@@ -1,0 +1,8 @@
+.form{
+background-repeat: no-repeat;
+background-color: aliceblue;
+}
+#heading{
+    background-color: red;
+    display: inline;
+}
